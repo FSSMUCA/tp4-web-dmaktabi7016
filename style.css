@@ -1,0 +1,44 @@
+body {
+    color: rgb(255, 255, 255);
+}
+
+.card img {
+  height: 180px;
+  object-fit: cover;
+}
+
+.navbar {
+    background-color: rgb(114, 32, 32);
+}
+
+.navbar a {
+    color: rgb(207, 174, 137) !important;
+}
+
+.d-block {
+    width: auto ;
+    height: 450px;
+}
+
+.text-center{
+    color: rgb(114, 32, 32);
+}
+.btn-primary {
+    background-color: rgb(114, 32, 32); /* ton burgundy */
+    border-color: rgb(114, 32, 32);
+}
+
+.btn-primary:hover {
+    background-color: rgb(90, 25, 25); /* version plus sombre au survol */
+    border-color: rgb(90, 25, 25);
+}
+.btn-success {
+    background-color: rgb(140, 20, 20); /* autre rouge/burgundy si tu veux */
+    border-color: rgb(140, 20, 20);
+}
+
+.btn-success:hover {
+    background-color: rgb(110, 15, 15);
+    border-color: rgb(110, 15, 15);
+}
+
